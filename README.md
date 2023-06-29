@@ -25,4 +25,4 @@ Certifique-se de ter o Java Development Kit (JDK) instalado em sua máquina.
 
 ## Licença
 
-Este projeto foi desenvolvido por Gustavo_Vasconcelos, Lud Galvão e Adryano chavier
+Este projeto foi desenvolvido por @GustavoVascon, @LudGalvao e Adryano chavier
